@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      My first blog
+title:      First post
 date:       2015-07-24
-summary:    
+summary:    a post about my first post
 categories: 
 ---
 
-Not sure what to write.
+I don't know yet what I'll be writing about, it'll probably be about random technology stuff I come in contact with.
