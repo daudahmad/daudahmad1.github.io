@@ -1,5 +1,5 @@
 # Site settings
-title:       A blog with no purpose
+title:       Daud's blog
 email:       daudahmedkhokhar@gmail.com
 author:      Daud Ahmad
 description: "Daud's blog"
@@ -17,12 +17,12 @@ show_social_icons:  false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: daudahmad
 
 # Social icons
 github_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: daudahmad
 google_plus_id:
 linkedin_username:
 angellist_username:
@@ -32,11 +32,11 @@ paypal_url:
 flattr_button:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: true
 share_text: 'Share this post!'
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
+share_facebook: true
+share_twitter: true
 share_googleplus: false
 share_linkedin: false
 share_digg: false
