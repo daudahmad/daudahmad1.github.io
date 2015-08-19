@@ -1,8 +1,8 @@
 # Site settings
-title:       Daud's blog
+title:       I write code in a corner
 email:       daudahmedkhokhar@gmail.com
 author:      Daud Ahmad
-description: "I write code in a corner"
+description: "Daud's blog"
 baseurl:     ""
 url:         "http://daudahmad.github.io"
 
